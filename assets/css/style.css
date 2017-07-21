@@ -1,0 +1,175 @@
+body {
+    background-image: url(../images/ep_naturalwhite.png);
+}
+
+h1 {
+	font-size: 25px;
+}
+
+h2 {
+	font-size: 25px;
+	color: #4aaaa5;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 18px;
+	color: #4aaaa5;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-left: 10px;	
+
+}
+
+p {
+	font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777777;
+}
+
+header {
+  background: #ffffff;
+  width: 100%;
+  height: 75px;
+  position: fixed;
+  z-index: 3;
+}
+
+.menu {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.menu-name {
+	width: 225px;
+	background-color: #4aaaa5;
+	float: left;
+	color: white;
+	padding: 25px;
+	font-weight: bold;
+}
+
+.menu-buttons {
+	width: 188px;
+	float: right;
+	margin-top: 25px;
+	color: #a7a6a7;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.main-box {
+	width: 500px;
+	height: 100%;
+	background-color: white;
+	float: left;
+	position: relative;
+	margin-top: 100px;
+	padding: 35px;
+	margin-bottom: 25px;
+
+}
+
+.side-box {
+	width: 200px;
+	height: 179px;
+	background-color: white;
+	float: right;
+	position: relative;
+	margin-top: 100px;
+}
+
+.headshot {
+	width: 125px;
+	height: 125px;
+	margin: 15px;
+	float: left;
+}
+
+.icons {
+	width: 48px;
+	height: 48px;
+	margin: 5px;
+}
+
+.icons-box {
+	margin-left: 8px;
+	float: left;
+
+}
+
+.footer {
+	font-size: 14px;
+	color: white;
+	text-align: center;
+	padding: 25px;	
+}
+
+.footer-top {
+	background-color: #4aaaa5;
+	width: 100%;
+	height: 5px;
+	clear: both;
+}
+
+footer {
+	clear: both;
+	background-color: #666666;
+	height: 60px;
+	width: 100%;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+a:visited {
+    color: #a7a6a7;
+}
+
+a:link {
+    color: #a7a6a7;
+}
+
+.form {
+	margin:15px;
+	width: 90%;
+}
+
+.submit {
+	width: 75px;
+	background-color: #4aaaa5;
+	float: left;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.portfolio-box {
+	height: 150px;
+	width: 220px;
+	margin: 15px;
+	float: left;
+	background-color: grey;
+}
+
+.portfolio-label {
+	background-color: #4aaaa5;
+	width: 220px;
+	height: 30px;
+	position: static;
+	margin-top: 100px;
+}
+
+.label {
+	color: white;
+	text-align: center;
+	position: relative;
+	padding:4px;
+}
